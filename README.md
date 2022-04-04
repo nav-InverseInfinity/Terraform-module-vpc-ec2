@@ -1,6 +1,6 @@
 # Terraform-module-vpc-ec2
 The aim of this project is to build a VPC and EC2 instance and run them as a module using IaC methodology  - here I have used Terraform to perform this project.
-With the help of reusable Terraform modules, we can create multiple EC2 instances within minutes.
+ With the help of this created reusable Terraform modules, we can implement multiple EC2 instances within minutes. 
 
 
 Setup
