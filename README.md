@@ -37,6 +37,7 @@ terraform apply
 
 # Screenshot
 VPC
+
 ![image](https://user-images.githubusercontent.com/98486154/161604576-7082a072-8b96-40a9-b13c-e672732e543d.png)
 
 EC2
