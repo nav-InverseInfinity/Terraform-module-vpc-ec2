@@ -36,7 +36,10 @@ terraform apply
 
 
 # Screenshot
-On Amazon Managmenet console
+VPC
+![image](https://user-images.githubusercontent.com/98486154/161604576-7082a072-8b96-40a9-b13c-e672732e543d.png)
+
+EC2
 ![image](https://user-images.githubusercontent.com/98486154/159164299-53fb310e-27b6-40a7-a97c-b10c8f342c21.png)
 
 Webserver
